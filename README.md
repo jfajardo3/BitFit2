@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/jfajardo3/BitFit2/blob/main/BitFit2Final.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/jfajardo3/BitFit2/blob/main/BitFit2Final.gif' title='Video Walkthrough' width='100' alt='Video Walkthrough' />
 
 ScreenToGIF
 
